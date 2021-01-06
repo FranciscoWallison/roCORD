@@ -1,38 +1,38 @@
-# Overview
-## Introduction
-roCORD is a chat bot that allows the players within the game client to chat directly via [chat channels](https://github.com/rathena/rathena/blob/master/conf/channels.conf) to a Discord Server and vice versa. This project is still currently under development, so please do not expect it to be completely stable. 
+# Visão geral
+## Introdução
+roCORD é um bot de bate-papo que permite que os jogadores dentro do cliente do jogo conversem diretamente através de [canais de bate-papo] (https://github.com/rathena/rathena/blob/master/conf/channels.conf) para um servidor Discord e vice versa. Este projeto ainda está em desenvolvimento, portanto, não espere que seja completamente estável.
 
-## Minimum Requirements
-Currently, roCORD is only written to run under Debian and CentOS. The bot recommends the following criteria:
-- Operating System
-  - Debian: 9.x or better
-  - Centos: 7.x or better  
-- Server Emulator
-  - [rAthena](https://github.com/rathena/rathena)
+## Requerimentos mínimos
+Atualmente, roCORD é escrito apenas para rodar no Debian e CentOS. O bot recomenda os seguintes critérios:
+- Sistema operacional
+  - Debian: 9.x ou melhor
+  - Centos: 7.x ou melhor
+- Emulador de servidor
+  - [rAthena] (https://github.com/rathena/rathena)
   
-## Installing roCORD
-- Installation
-  - [Debian](https://github.com/Normynator/roCORD/blob/development/docs/installation_debian.md)
-  - [CentOS](https://github.com/Normynator/roCORD/blob/development/docs/installation_centos.md)
-  - [Windows] - no install script available
+## Instalando roCORD
+- Instalação
+  - [Debian] (https://github.com/Normynator/roCORD/blob/development/docs/installation_debian.md)
+  - [CentOS] (https://github.com/Normynator/roCORD/blob/development/docs/installation_centos.md)
+  - [Windows] - nenhum script de instalação disponível
   
-- Manual Installation
-  - [Debian](https://github.com/Normynator/roCORD/blob/development/docs/installation_debian_manual.md)
-  - [CentOS](https://github.com/Normynator/roCORD/blob/development/docs/installation_centos_manual.md)
-  - [Ubuntu](https://github.com/Normynator/roCORD/blob/master/docs/installation_ubuntu_manual.md)
-  - [Windows] - no guide available
+- Instalação manual
+  - [Debian] (https://github.com/Normynator/roCORD/blob/development/docs/installation_debian_manual.md)
+  - [CentOS] (https://github.com/Normynator/roCORD/blob/development/docs/installation_centos_manual.md)
+  - [Ubuntu] (https://github.com/Normynator/roCORD/blob/master/docs/installation_ubuntu_manual.md)
+  - [Windows] - nenhum guia disponível
   
-- [Discord Bot Setup](https://github.com/nubspixel/roCORD/blob/development/docs/discord.md)  
-- [Configuration](https://github.com/Normynator/roCORD/blob/development/docs/configuration.md)
-  - [Config file](https://github.com/Normynator/roCORD/blob/development/docs/configuration.md#config-file)
-  - [CA Certificate](https://github.com/Normynator/roCORD/blob/development/docs/configuration.md#ca-certificate)
+- [Configuração do Discord Bot] (https://github.com/nubspixel/roCORD/blob/development/docs/discord.md)
+- [Configuração] (https://github.com/Normynator/roCORD/blob/development/docs/configuration.md)
+  - [Arquivo de configuração] (https://github.com/Normynator/roCORD/blob/development/docs/configuration.md#config-file)
+  - [Certificado CA] (https://github.com/Normynator/roCORD/blob/development/docs/configuration.md#ca-certificate)
   
-- [Dependencies](https://github.com/Normynator/roCORD/blob/development/docs/dependencies.md#required-dependencies-for-rocord)
-- [Script Commands](https://github.com/Normynator/roCORD/blob/development/docs/script_commands.md#script-commands)
-  - [Discord](https://github.com/Normynator/roCORD/blob/development/docs/script_commands.md#discordstring-string)
+- [Dependências] (https://github.com/Normynator/roCORD/blob/development/docs/dependencies.md#required-dependencies-for-rocord)
+- [Comandos de script] (https://github.com/Normynator/roCORD/blob/development/docs/script_commands.md#script-commands)
+  - [Discord] (https://github.com/Normynator/roCORD/blob/development/docs/script_commands.md#discordstring-string)
   
-- At Commands
+- Comandos
 
-- [Bot Commands](https://github.com/Normynator/roCORD/blob/development/docs/bot_commands.md)
-  - [!info](https://github.com/Normynator/roCORD/blob/development/docs/bot_commands.md#info)
-  - [!uptime](https://github.com/Normynator/roCORD/blob/development/docs/bot_commands.md#uptime)
+- [Comandos de bot] (https://github.com/Normynator/roCORD/blob/development/docs/bot_commands.md)
+  - [! info] (https://github.com/Normynator/roCORD/blob/development/docs/bot_commands.md#info)
+  - [! uptime] (https://github.com/Normynator/roCORD/blob/development/docs/bot_commands.md#uptime)
